@@ -4,7 +4,7 @@
       "email": "dung@gmail.com",
       "password": "$2a$10$N.RIGaJvD1NhfiazfuB4ouSXtdo4wyp64FafKP0Z60zY.fWx2YkB.",
       "name": "Dung Nguyen",
-      "infoId": 4,
+      "infoFormId": 4,
       "createdAt": 1638610890752,
       "updatedAt": 1640342834852,
       "id": 1
@@ -13,7 +13,7 @@
       "email": "ntdung@gmail.com",
       "password": "$2a$10$vqe1pwbYrpSvflys4Lfhxu1zrw3pGYq2HOCNSgMKj44nqHoUlgy..",
       "name": "Nguyen Dung",
-      "infoId": null,
+      "infoFormId": null,
       "createdAt": 1639135037801,
       "updatedAt": 1639135037802,
       "id": 2
