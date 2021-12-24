@@ -663,7 +663,7 @@
       "type": "candle"
     }
   ],
-  "productOptions": [
+  "options": [
     {
       "id": 1,
       "productId": 1,
@@ -1206,7 +1206,7 @@
       "userId": 1,
       "productId": 11,
       "quantity": 1,
-      "productOptionId": 21,
+      "optionId": 21,
       "createdAt": 1640327830593,
       "updatedAt": 1640344225744,
       "id": 2
